@@ -5,3 +5,4 @@
 - Keep track of points and withdrawn card history.
 
 # Preview
+https://deck-of-card-game-myildiz97.netlify.app/
